@@ -1,0 +1,288 @@
+[
+  {
+    "item": {
+      "value": "Q317806",
+      "label": "Abdullahi Issa"
+    },
+    "statement": "Q317806$7ca65099-9806-4273-918d-5dcd4fe86028"
+  },
+  {
+    "item": {
+      "value": "Q4381342",
+      "label": "Abdiwahid Elmi Gonjeh"
+    },
+    "statement": "Q4381342$d47766e1-d175-4dbf-b9f5-dd6db8f7e397"
+  },
+  {
+    "item": {
+      "value": "Q57899",
+      "label": "Omar Abdirashid Ali Sharmarke"
+    },
+    "statement": "Q57899$45bc1bab-1e32-4d20-b440-f9290ca5be77"
+  },
+  {
+    "item": {
+      "value": "Q355468",
+      "label": "Ali Mohammed Ghedi"
+    },
+    "statement": "Q355468$917792da-5ee6-47a3-8650-6bea2e77833d"
+  },
+  {
+    "item": {
+      "value": "Q202437",
+      "label": "Abdirizak Haji Hussein"
+    },
+    "statement": "Q202437$a3759c02-5ebe-43de-9798-19d10caeb1b4"
+  },
+  {
+    "item": {
+      "value": "Q1777401",
+      "label": "Abdiweli Mohamed Ali"
+    },
+    "statement": "Q1777401$55fe974c-e5f5-4486-b504-fa9d571757ad"
+  },
+  {
+    "item": {
+      "value": "Q3563291",
+      "label": "Mohamoud Mohamed Guled"
+    },
+    "statement": "Q3563291$8aebdd54-33eb-475a-8211-2bb68664eaf2"
+  },
+  {
+    "item": {
+      "value": "Q11883106",
+      "label": "Mohamed Farah Salad"
+    },
+    "statement": "Q11883106$02bad2b4-ae20-4dec-bbde-5cfe60ca2aa0"
+  },
+  {
+    "item": {
+      "value": "Q682738",
+      "label": "Abdi Farah Shirdon"
+    },
+    "statement": "Q682738$17fbf787-c984-413c-9538-2cf2c93070e7"
+  },
+  {
+    "item": {
+      "value": "Q718072",
+      "label": "Muhammad Ali Samatar"
+    },
+    "statement": "Q718072$03f85e17-47c0-0694-d7f4-7b085c634ff1"
+  },
+  {
+    "item": {
+      "value": "Q15302843",
+      "label": "Abdiweli Sheikh Ahmed"
+    },
+    "statement": "Q15302843$62ed9d17-c56d-4c10-880e-55633cf1a22b"
+  },
+  {
+    "item": {
+      "value": "Q308215",
+      "label": "Abdirashid Ali Shermarke"
+    },
+    "start": {
+      "value": "1960-07-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q308215$e0e6c8cb-d66f-4603-82c1-d03e910d434e"
+  },
+  {
+    "item": {
+      "value": "Q328807",
+      "label": "Muhammad Hawadle Madar"
+    },
+    "replaces": {
+      "value": "Q718072",
+      "label": "Muhammad Ali Samatar"
+    },
+    "replacedBy": {
+      "value": "Q346240",
+      "label": "Umar Arteh Ghalib"
+    },
+    "start": {
+      "value": "1990-09-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1991-01-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q328807$0846ba88-6a22-4a3f-999f-8b991260cc69"
+  },
+  {
+    "item": {
+      "value": "Q346240",
+      "label": "Umar Arteh Ghalib"
+    },
+    "replaces": {
+      "value": "Q328807",
+      "label": "Muhammad Hawadle Madar"
+    },
+    "start": {
+      "value": "1991-01-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-01-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q346240$7a7bbe84-5bef-4207-a444-90f82b8fc28b"
+  },
+  {
+    "item": {
+      "value": "Q1397035",
+      "label": "Ali Khalif Galaydh"
+    },
+    "replacedBy": {
+      "value": "Q732073",
+      "label": "Osman Jama Ali"
+    },
+    "start": {
+      "value": "2000-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-10-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1397035$068e0d5b-0095-4dc5-a7d1-2f7467bd2f36"
+  },
+  {
+    "item": {
+      "value": "Q732073",
+      "label": "Osman Jama Ali"
+    },
+    "replaces": {
+      "value": "Q1397035",
+      "label": "Ali Khalif Galaydh"
+    },
+    "replacedBy": {
+      "value": "Q572660",
+      "label": "Hassan Abshir Farah"
+    },
+    "start": {
+      "value": "2001-10-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-11-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q732073$c6244d57-c292-458c-af6d-b70e8f8127ac"
+  },
+  {
+    "item": {
+      "value": "Q572660",
+      "label": "Hassan Abshir Farah"
+    },
+    "replaces": {
+      "value": "Q732073",
+      "label": "Osman Jama Ali"
+    },
+    "replacedBy": {
+      "value": "Q1397020",
+      "label": "Abdi Yusuf hussein"
+    },
+    "start": {
+      "value": "2001-11-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q572660$4D551A96-CC30-44E5-96AA-2FF7DD96F107",
+    "ordinal": "9"
+  },
+  {
+    "item": {
+      "value": "Q1397020",
+      "label": "Abdi Yusuf hussein"
+    },
+    "replaces": {
+      "value": "Q572660",
+      "label": "Hassan Abshir Farah"
+    },
+    "replacedBy": {
+      "value": "Q355468",
+      "label": "Ali Mohammed Ghedi"
+    },
+    "start": {
+      "value": "2003-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-11-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1397020$8DC6FC1D-EEB2-41D6-B966-F92D6E537012",
+    "ordinal": "10"
+  },
+  {
+    "item": {
+      "value": "Q451302",
+      "label": "Nur Hassan Hussein"
+    },
+    "replaces": {
+      "value": "Q1380263",
+      "label": "Salim Aliyow Ibrow"
+    },
+    "replacedBy": {
+      "value": "Q57899",
+      "label": "Omar Abdirashid Ali Sharmarke"
+    },
+    "start": {
+      "value": "2007-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-02-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q451302$f50fd5ec-45be-d29a-c7c7-7e702874dd08",
+    "ordinal": "12"
+  },
+  {
+    "item": {
+      "value": "Q558575",
+      "label": "Mohamed Abdullahi Farmajo"
+    },
+    "replaces": {
+      "value": "Q4381342",
+      "label": "Abdiwahid Elmi Gonjeh"
+    },
+    "replacedBy": {
+      "value": "Q1777401",
+      "label": "Abdiweli Mohamed Ali"
+    },
+    "start": {
+      "value": "2010-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q558575$5f1868c7-4be2-6bc1-d317-59f3fb9dd0d7"
+  },
+  {
+    "item": {
+      "value": "Q28824125",
+      "label": "Hassan Ali Khayre"
+    },
+    "replaces": {
+      "value": "Q57899",
+      "label": "Omar Abdirashid Ali Sharmarke"
+    },
+    "start": {
+      "value": "2017-03-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q28824125$6dcda438-4970-d0b3-a305-901b4d030e65"
+  }
+]
