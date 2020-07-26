@@ -40,13 +40,13 @@ class HolderItem < WikipediaTableRow
   end
 
   field :start_date do
-    Date.parse tds[4].text rescue binding.pry
+    Date.parse tds[3].text rescue binding.pry
   end
 
   field :end_date do
-    return if tds[5].text.include? 'Incumbent'
+    return if tds[4].text.include? 'Incumbent'
 
-    Date.parse tds[5].text
+    Date.parse tds[4].text
   end
 
   field :replaces do
